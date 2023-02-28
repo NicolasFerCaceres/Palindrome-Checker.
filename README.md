@@ -1,1 +1,1 @@
-# Palindrome-Checker.
+# Simon Game Challenge 
